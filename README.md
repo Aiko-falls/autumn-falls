@@ -1,0 +1,3 @@
+- Hi, I’m @autumn-falls
+- I’m currently studying Full Stack development.
+- You can contact me on discord at autumn#8888
