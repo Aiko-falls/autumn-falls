@@ -1,3 +1,3 @@
 - Hi, I’m @autumn-falls
 - I’m currently studying Full Stack development.
-- You can contact me on discord at Mei#8888
+- You can contact me on discord at Aiko#8888
