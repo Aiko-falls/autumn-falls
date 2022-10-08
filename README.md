@@ -1,3 +1,3 @@
-- Hi, I’m @Aiko-falls
+- Hi, I’m @aya-falls
 - I’m currently studying Full Stack development.
-- You can contact me on discord at Aiko#8888
+- You can contact me on discord at aya#2222
