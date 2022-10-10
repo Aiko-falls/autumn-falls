@@ -1,3 +1,3 @@
-- Hi, I’m @aya-falls
+- Hi, I’m @mai-falls
 - I’m currently studying Full Stack development.
-- You can contact me on discord at aya#2222
+- You can contact me on discord at mai#0008
