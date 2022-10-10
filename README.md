@@ -1,3 +1,3 @@
-- Hi, I’m @mai-falls
+- Hi, I’m @kyoko-falls
 - I’m currently studying Full Stack development.
-- You can contact me on discord at mai#0008
+- You can contact me on discord at kyoko#8888
