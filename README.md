@@ -1,3 +1,3 @@
-- Hi, I’m @kyoko-dev
+- Hi, I’m @oliver-so
 - I’m currently studying Full Stack development.
-- You can contact me on discord at kyoko#8888
+- You can contact me on discord at ayuna#8888
